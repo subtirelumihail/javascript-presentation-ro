@@ -13,7 +13,15 @@
 
 ---
 
-#### Ce se intampla daca nu folosim Javascript
-<div class="fragment" style="font-size: 26px">Daca nu am folosi Javascript atunci paginile web ar semana cu niste documente Word</div>
-<div class="fragment" style="font-size: 26px">![Image](https://cms-assets.tutsplus.com/uploads/users/30/posts/22489/image/www.png)</div>
+##### Care este diferenta intre jQuery si Javascript
+<div class="fragment" style="font-size: 26px">jQuery este o librarie, iar Javascript este limbajul de programare in care a fost scrisa libraria </div>
+<div class="fragment" style="font-size: 26px">Aceasta librarie a fost creata cu gandul de a usura lucrul cu  Javascript-ul prin introducerea unei sintaxe mai simplificate si extinderea limbajului cu noi metode</div>
 
+```
+$('#id)
+```
+vs.
+
+```
+document.getElementById('id')
+```
