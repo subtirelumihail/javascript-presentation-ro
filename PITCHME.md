@@ -16,5 +16,4 @@ Javascript este un limbaj de programare orientat pe obiect cu ajutorul caruia pu
 <span class="menu-title" style="display:none">Difference between Javascript and other languages</span>
 
 ### Care este diferenta intre Javascript si celelalte limbaje ?
-@[1]
-Javascript este un limbaj interpretat si rulat direct de catre Browser.
+@[1] Javascript este un limbaj interpretat si rulat direct de catre Browser.
