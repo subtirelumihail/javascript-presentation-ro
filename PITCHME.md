@@ -18,10 +18,7 @@
 <div class="fragment" style="font-size: 26px">Aceasta librarie a fost creata cu gandul de a usura lucrul cu  Javascript-ul prin introducerea unei sintaxe mai simplificate si extinderea limbajului cu noi metode</div>
 
 ```
-$('#id)
-```
-vs.
+$('#id) // jQuery
 
-```
-document.getElementById('id')
+document.getElementById('id') // Javascript simplu
 ```
