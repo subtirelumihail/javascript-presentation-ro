@@ -48,6 +48,6 @@ const text = $('#id').html();
 
 ---
 
-<div class="fragment" style="font-size: 26px">What is the meaning of JavaScript framework?</div>
-<div class="fragment" style="font-size: 26px">Do we really need JavaScript?</div>
-<div class="fragment" style="font-size: 26px">Este benefic sau nu, in cadrul unui proiect, sa existe un dev specializat de Frontend?</div>
+- What is the meaning of JavaScript framework? |
+- Do we really need JavaScript? |
+- Este benefic sau nu, in cadrul unui proiect, sa existe un dev specializat de Frontend? |
