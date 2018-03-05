@@ -26,10 +26,10 @@
 
 ```
 // Javascript simplu
-document.getElementById('id');
+const text = document.getElementById('id').innerHTML;
 
 // jQuery
-$('#id');
+const text = $('#id').html();
 ```
 
 ---
