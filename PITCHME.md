@@ -25,9 +25,9 @@
 <span class="menu-title" style="display:none">jQuery and Javascript examples</span>
 
 ```
-document.getElementById('id') // Javascript simplu
+// Javascript simplu
+document.getElementById('id');
 
-vs.
-
-$('#id) // jQuery
+// jQuery
+$('#id);
 ```
