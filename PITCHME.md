@@ -8,7 +8,7 @@
 <span class="menu-title" style="display:none">What is Javascript</span>
 
 ###### Ce este Javascript ?
-@[1](Javascript este un limbaj de programare orientat pe obiect cu ajutorul caruia putem sa cream continut dinamic pentru paginile web, iar mai nou putem sa dezvoltam aplicatii mobile (React Native), desktop (Electron) sau server side (NodeJS)
+@[1-2](Javascript este un limbaj de programare orientat pe obiect cu ajutorul caruia putem sa cream continut dinamic pentru paginile web, iar mai nou putem sa dezvoltam aplicatii mobile (React Native), desktop (Electron) sau server side (NodeJS)
 ![Image](http://3.bp.blogspot.com/-a9CthiQl21w/VafyusS-4sI/AAAAAAAALrE/AUImiEHj5wo/s1600/jquery%2Bbutton_stream0.gif)
 
 ---
