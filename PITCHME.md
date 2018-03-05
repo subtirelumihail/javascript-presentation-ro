@@ -29,5 +29,5 @@
 document.getElementById('id');
 
 // jQuery
-$('#id);
+$('#id');
 ```
