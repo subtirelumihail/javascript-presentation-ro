@@ -14,7 +14,6 @@
 ---
 
 #### Ce se intampla daca nu folosim Javascript
-<div class="fragment" style="font-size: 26px">
-Daca nu am folosi Javascript atunci paginile web ar semana cu niste documente Word
-![Image](https://cms-assets.tutsplus.com/uploads/users/30/posts/22489/image/www.png)
-</div>
+<div class="fragment" style="font-size: 26px">Daca nu am folosi Javascript atunci paginile web ar semana cu niste documente Word</div>
+<div class="fragment" style="font-size: 26px">![Image](https://cms-assets.tutsplus.com/uploads/users/30/posts/22489/image/www.png)</div>
+
