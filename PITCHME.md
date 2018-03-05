@@ -16,9 +16,9 @@
 ##### Care este diferenta intre jQuery si Javascript
 <div class="fragment" style="font-size: 26px">jQuery este o librarie, iar Javascript este limbajul de programare in care a fost scrisa libraria </div>
 <div class="fragment" style="font-size: 26px">Aceasta librarie a fost creata cu gandul de a usura lucrul cu  Javascript-ul prin introducerea unei sintaxe mai simplificate si extinderea limbajului cu noi metode</div>
-
+<div class="fragment" style="font-size: 26px">
 ```
-$('#id) // jQuery
-
 document.getElementById('id') // Javascript simplu
+$('#id) // jQuery
 ```
+</div>
