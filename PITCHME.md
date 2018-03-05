@@ -36,7 +36,7 @@ $('#id');
 <span class="menu-title" style="display:none">What is a framework</span>
 
 ##### Ce este un framework
-<div class="fragment" style="font-size: 26px">Un framework inglobeaza un set de reguli, standarde, concepte, abstractizari si tool-uri care ajuta la o dezvoltare mai rapida, mai usoara si mai uniforma a unui site sau a unei aplicatii</div>
+<div class="fragment" style="font-size: 26px">Un framework poate sta la baza construirii unei aplicatii sau a unui site (de dimensiuni medii sau mari) acesta inbgloband un set de reguli, standarde, concepte, abstractizari si tool-uri care ajuta la o dezvoltare mai rapida, mai usoara si mai uniforma a unui site sau a unei aplicatii</div>
 <div class="fragment">![Image](https://cdn-images-1.medium.com/max/1600/1*Q2t-jgIzVx_w1Cyy1YlbNw.png)</div>
 
 ---
