@@ -52,7 +52,7 @@ const text = $('#id').html();
 
 ---
 
-- What is the meaning of JavaScript framework? |
+- What is the meaning of JavaScript framework?
 - Do we really need JavaScript? |
 - Este benefic sau nu, in cadrul unui proiect, sa existe un dev specializat de Frontend? |
 
