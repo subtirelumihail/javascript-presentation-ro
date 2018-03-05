@@ -26,5 +26,8 @@
 
 ```
 document.getElementById('id') // Javascript simplu
+
+vs.
+
 $('#id) // jQuery
 ```
