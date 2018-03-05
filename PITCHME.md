@@ -45,3 +45,9 @@ const text = $('#id').html();
 ##### Care este diferenta intre Angular si Angular 4
 <div class="fragment" style="font-size: 26px">Cifra 4 reprezinta numarul versiuni la care a ajuns framework-ul Angular ( in total sunt 4 versiuni )</div>
 <div class="fragment" style="font-size: 26px">Intre Angular 1 si Angular 2 exista o diferenta foarte mare deoarece o mare parte din structura framework-ului a fost regandita si rescrisa astfel ne mai existand posibilitatea unui upgrade de la o versiune la alta ( in alte framework-uri acest lucru putand fi facut, uneori, cu o foarte mare usurinta(</div>
+
+---
+
+<div class="fragment" style="font-size: 26px">What is the meaning of JavaScript framework?</div>
+<div class="fragment" style="font-size: 26px">Do we really need JavaScript?</div>
+<div class="fragment" style="font-size: 26px">Este benefic sau nu, in cadrul unui proiect, sa existe un dev specializat de Frontend?</div>
